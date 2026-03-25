@@ -7,6 +7,16 @@
 html{
   font-family: sans-serif;
   font-size: 16px;
+  color: #0f0e17;
+}
+h1{
+  font-family: Georgia, sans-serif;
+  color: #ff8906;
+  
+}
+h2{
+  color: #f25f4c;
+  font-size: 19px;
 }
 
 header{
@@ -29,6 +39,5 @@ main{
 
 .blurb{
   padding-bottom: 50px;
-  
 }
 
