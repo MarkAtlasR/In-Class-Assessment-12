@@ -21,6 +21,8 @@ h2{
 
 header{
   display:flex;
+  height: 75px;
+  background: #2e2f3e;
   flex-direction: row;
   justify-content: flex-end;
 }
@@ -41,14 +43,18 @@ main{
 }
 
 a:link {
-   color:#0f0e17;
+   color:#fffffe;
+   text-decoration: none;
 }
 a:visited {
    color:#120909 ;
+   text-decoration: none;
 }
 a:hover {
    color:#8C4545 ;
+    text-decoration: none;
 }
 a:active {
    color:#b22222 ;
+    text-decoration: none;
 }
