@@ -26,7 +26,8 @@ header{
 }
 
 nav{
-  justify-content: space-evenly;
+  justify-content: space-around;
+  margin:37px 50px;
 }
 main{
   display:flex;
