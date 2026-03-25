@@ -26,11 +26,13 @@ header{
   background: #2e2f3e;
   flex-direction: row;
   justify-content: flex-end;
+  align-items: center;
+  font-family: Georgia, sans-serif;
 }
 
 nav{
   justify-content: space-around;
-  margin:37px 50px;
+  margin: 0px 50px;
 }
 main{
   display:flex;
