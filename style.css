@@ -24,6 +24,7 @@ main{
   display:flex;
   width: 75%;
   align-content:center;
+  flex-direction: column;
 }
 
 .blurb{
