@@ -12,7 +12,15 @@ html{
 nav{
   display:flex;
   flex-direction: row;
+  
   padding: 50px;
   align-items: flex-end;
-  
+}
+
+nav:a{
+  justify-content: space-between;
+}
+main{
+  width: 75%;
+  align-content:center;
 }
