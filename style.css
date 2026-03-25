@@ -22,7 +22,6 @@ h2{
 header{
   display:flex;
   flex-direction: row;
-  
   padding: 50px;
   align-items: flex-end;
 }
@@ -41,3 +40,15 @@ main{
   padding-bottom: 50px;
 }
 
+a:link {
+   color:#0f0e17;
+}
+a:visited {
+   color:#120909 ;
+}
+a:hover {
+   color:#8C4545 ;
+}
+a:active {
+   color:#b22222 ;
+}
