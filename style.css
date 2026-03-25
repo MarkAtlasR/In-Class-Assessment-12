@@ -22,7 +22,7 @@ nav{
 }
 main{
   display:flex;
-  width: 75%;
+  width: 75vw;
   align-content:center;
   flex-direction: column;
 }
