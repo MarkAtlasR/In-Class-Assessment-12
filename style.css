@@ -22,12 +22,11 @@ h2{
 header{
   display:flex;
   flex-direction: row;
-  padding: 50px;
   align-items: flex-end;
 }
 
 nav{
-  justify-content: space-between;
+  justify-content: space-evenly;
 }
 main{
   display:flex;
