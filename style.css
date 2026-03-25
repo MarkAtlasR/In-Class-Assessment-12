@@ -9,7 +9,7 @@ html{
   font-size: 16px;
 }
 
-nav{
+header{
   display:flex;
   flex-direction: row;
   
@@ -17,10 +17,17 @@ nav{
   align-items: flex-end;
 }
 
-nav:a{
+nav{
   justify-content: space-between;
 }
 main{
+  display:flex;
   width: 75%;
   align-content:center;
 }
+
+.blurb{
+  padding-bottom: 50px;
+  
+}
+
