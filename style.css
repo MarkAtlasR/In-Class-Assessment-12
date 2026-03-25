@@ -35,6 +35,8 @@ nav{
 main{
   display:flex;
   width: 75vw;
+  justify-content:flex-start;
+  align-items: center;
   align-content:center;
   flex-direction: column;
 }
