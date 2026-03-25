@@ -12,7 +12,7 @@ html{
 h1{
   font-family: Georgia, sans-serif;
   color: #ff8906;
-  
+  text-transform: uppercase;
 }
 h2{
   color: #f25f4c;
