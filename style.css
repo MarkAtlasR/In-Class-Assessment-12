@@ -99,6 +99,18 @@ background-position: center;
 .image{
   height: 300px;
 }
+
+.img1{
+  background-image: url("https://i5.walmartimages.com/asr/ff47244f-31db-4d5d-8f03-2aff68a36b91.e0755fb8e202b44ab110863c2d2dc9c3.jpeg");
+}
+
+.img2{
+  background-image: url("https://m.media-amazon.com/images/I/81CTVNerxFL._AC_UF894,1000_QL80_.jpg");
+}
+
+.img3{
+  background-image: url("https://images.squarespace-cdn.com/content/v1/663cfa0079450f06f8fee118/326fe233-388f-4a47-97bd-673f9bb8d127/tempImageFeF0QJ.gif");
+}
 a:link {
    color:#fffffe;
    text-decoration: none;
