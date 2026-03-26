@@ -43,8 +43,12 @@ main{
   flex-direction: column;
 }
 
+section{
+  margin-top: 100px;
+}
+
 .blurb{
-  padding-bottom: 50px;
+ height: 100px;
 }
 
 a:link {
