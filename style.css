@@ -70,6 +70,23 @@ section{
   padding-top: 40px;
 }
 
+.one{
+  background-image: url("https://cdn.britannica.com/95/206395-050-02B81B30/Red-fox-Vulpes-vulpes.jpg");
+}
+
+.two{
+  background-image: url("https://c767113787.mjedge.net/wp-content/uploads/2024/07/29841289721_a066ffe176_c.jpg");
+}
+
+.three{
+  background-image: url("https://wallpapers.com/images/hd/cute-fox-pictures-qoah5qv84v0schjk.jpg");
+}
+
+.four{
+  background-image: url("http://www.tehcute.com/pics/201402/cute-white-fennec-fox-big.jpg");
+}
+
+
 a:link {
    color:#fffffe;
    text-decoration: none;
