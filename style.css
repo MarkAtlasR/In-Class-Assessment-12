@@ -83,7 +83,14 @@ background-position: center;
   background-image: url("http://www.tehcute.com/pics/201402/cute-white-fennec-fox-big.jpg");
 }
 
+.work{
+  display: flex;
+  justify-content: space-between;
+}
 
+.our-work{
+  text-align: right;
+}
 a:link {
    color:#fffffe;
    text-decoration: none;
