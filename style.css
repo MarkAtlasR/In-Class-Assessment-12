@@ -91,6 +91,14 @@ background-position: center;
 .our-work{
   text-align: right;
 }
+
+.container{
+  width: 100%;
+}
+
+.image{
+  height: 300px;
+}
 a:link {
    color:#fffffe;
    text-decoration: none;
