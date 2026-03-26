@@ -142,11 +142,20 @@ footer a{
 }
 
 .footer-content{
-  display: flex;
   width: 75vw;
   margim: 0 auto;
+  display: flex;
+  align-items: flex-start;
   justify-content: space-between;
-  
+}
+
+.footer-links {
+  height: 100px;
+  width: 300px;
+  display: flex;
+  flex-direction: column;
+  flex: wrap;
+}
 
 a:link {
    color:#fffffe;
