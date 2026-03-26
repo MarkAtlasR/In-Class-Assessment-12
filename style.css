@@ -9,16 +9,6 @@ html{
   font-size: 16px;
   color: #0f0e17;
 }
-h1{
-  font-family: Georgia, sans-serif;
-  color: #ff8906;
-  text-transform: uppercase;
-  margin-top: 20px;
-}
-h2{
-  color: #57514B;
-  font-size: 19px;
-}
 
 header{
   display:flex;
@@ -49,6 +39,25 @@ section{
 
 .blurb{
  height: 100px;
+}
+
+.blurb h1{
+  font-family: Georgia, sans-serif;
+  color: #ff8906;
+  text-transform: uppercase;
+  margin-top: 30px;
+}
+.blurb h2{
+  color: #57514B;
+  font-size: 22px;
+}
+
+.team{
+  display: flex;
+  height: 400px;
+  width: 100%;
+  font-size: 20px;
+  text-align: center;
 }
 
 a:link {
