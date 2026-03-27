@@ -159,19 +159,19 @@ footer a{
 }
 
 a:link {
-   color:#fffffe;
-   text-decoration: none;
+  color:#fffffe;
+  text-decoration: none;
 }
 a:visited {
-   color:#120909 ;
-   text-decoration: none;
+  color:#fffffe;
+  text-decoration: none;
 }
 a:hover {
-   color: #ff8906;
-    text-decoration: none;
+  color: #ff8906;
+  text-decoration: none;
 }
 a:active {
-   color:#b22222 ;
-    text-decoration: none;
+  color: #ff8906;
+  text-decoration: none;
 }
   
