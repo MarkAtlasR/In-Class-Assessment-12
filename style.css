@@ -65,6 +65,8 @@ background-position: center;
   flex: 1 20px;
   padding-top: 40px;
   color: white;
+  font-family: Georgia, sans-serif;
+
 }
 
 .one{
@@ -111,6 +113,15 @@ background-position: center;
 
 .thrid{
   background-image: url("https://images.squarespace-cdn.com/content/v1/663cfa0079450f06f8fee118/326fe233-388f-4a47-97bd-673f9bb8d127/tempImageFeF0QJ.gif");
+}
+
+.container p{
+  font-size:40px;
+  color:#ffffff;
+  position: relative;
+  top: -33px;
+  font-family: Georgia, sans-serif;
+  font-weight: bold;
 }
 
 footer{
@@ -187,6 +198,5 @@ a:active {
   color: #ff8906;
   text-decoration: none;
 }
-  
 
   
