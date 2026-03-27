@@ -133,26 +133,42 @@ footer a{
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  font-size:25px;
+  font-size:20px;
   font-family: Georgia, sans-serif;
+  color:#fffffe;
 }
 
 .footer-links {
-  height: 100px;
-  width: 300px;
-  display: flex;
   flex-direction: column;
+  display: flex;
+  width: 300px;
+  height: 200px;
   justify-content: space-between;
   flex-wrap: wrap;
 }
 
+.footer-button-copyright{
+  height: 75px;
+  align-items: flex-end;
+  flex-direction: column;
+  justify-content: space-between;
+  display:flex
+  
+}
+
 .button{
   font-size:20px;
-  padding: 20px;
+  padding: 10px;
   color: #fffffe;
   background: #ff8906;
   text-align: center;
   border-radius: 10px;
+}
+
+copyright{
+  font-size:20px;
+  text-align: right;
+  color:#fffffe;
 }
 
 a:link {
@@ -171,4 +187,6 @@ a:active {
   color: #ff8906;
   text-decoration: none;
 }
+  
+
   
