@@ -140,7 +140,17 @@ footer a{
   width: 300px;
   display: flex;
   flex-direction: column;
-  flex: wrap;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.button{
+  font-size:20px;
+  padding: 20px;
+  color: #fffffe;
+  background: #ff8906;
+  text-align: center;
+  border-radius: 10px;
 }
 
 a:link {
