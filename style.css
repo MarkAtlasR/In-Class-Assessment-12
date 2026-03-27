@@ -142,7 +142,7 @@ footer a{
   height: 60px;
 }
 
-.footer-content{
+.footer-container{
   width: 75vw;
   margim: 0 auto;
   display: flex;
