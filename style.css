@@ -133,6 +133,8 @@ footer a{
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
+  font-size:25px;
+  font-family: Georgia, sans-serif;
 }
 
 .footer-links {
